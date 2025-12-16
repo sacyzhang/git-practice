@@ -1,5 +1,7 @@
 # git tutorial
 
-  - frature-A
+  - feature-A
   
   - fix-B
+
+  - feature-C
